@@ -1,7 +1,6 @@
 # Happy Birthday
+Website - [Happy Birthday](https://moontasin.github.io/Your-Birthday/)
 
-Website - [Happy Birthday](https://rishabh04-02.github.io/happy-birthday/)
-
-An easy to deploy, Happy Birthday animation design TEMPLATE.
-
-View Deployments [here](https://github.com/Rishabh04-02/happy-birthday/deployments)
+“This birthday, I wish you abundant happiness and love. 
+May all your dreams turn into reality and may lady luck visit your home today. 
+Happy birthday to one of the sweetest people I’ve ever known.”
