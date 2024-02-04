@@ -1,11 +1,11 @@
 body {
 	/*background-color: #FFDAB9;	*/
 	background-color: #000;
-	-webkit-transition:background-color linear 3s;
-	-moz-transition:background-color linear 3s;
-	-o-transition:background-color linear 3s;
-	-ms-transition:background-color linear 3s;
-	transition:background-color linear 3s;
+	-webkit-transition:background-color linear 5s;
+	-moz-transition:background-color linear 5s;
+	-o-transition:background-color linear 5s;
+	-ms-transition:background-color linear 5s;
+	transition:background-color linear 5s;
 	overflow-x:hidden;
 }
 .container {
@@ -16,11 +16,11 @@ body {
 	
 }
 .peach-after {
-	-webkit-animation:peach_alive linear 5s infinite;
-	-moz-animation:peach_alive linear 5s infinite;
-	-o-animation:peach_alive linear 5s infinite;
-	-ms-animation:peach_alive linear 5s infinite;
-	animation:peach_alive linear 5s infinite;
+	-webkit-animation:peach_alive linear 8s infinite;
+	-moz-animation:peach_alive linear 8s infinite;
+	-o-animation:peach_alive linear 8s infinite;
+	-ms-animation:peach_alive linear 8s infinite;
+	animation:peach_alive linear 8s infinite;
 }
 
 @-webkit-keyframes peach_alive {
@@ -1282,13 +1282,13 @@ audio {
 }
 
 .btn-primary {
-        border-color: #466baf;
+        border-color: #000000;
         padding: 10px;
         text-transform: uppercase;
         font-family: 'Signika', sans-serif;
         font-weight: 700;
         color: #fff;
-        background-color: #466baf;
+        background-color: #5a0eed;
 }
     .btn-primary:hover,
     .btn-primary:focus,
@@ -1297,7 +1297,7 @@ audio {
     .open .dropdown-toggle.btn-primary {
         border-color: #fff;
         color: #fff;
-        background-color: #466baf;
+        background-color: #5a0eed;
     }
 
 
