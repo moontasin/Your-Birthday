@@ -1256,7 +1256,7 @@ audio {
 	z-index: 9999;
 }
 
-.balloons text-center h4 {
+h4 {
     margin-top: 50px;
     margin-bottom: 10px;
 	}
