@@ -978,15 +978,15 @@ audio {
 
 }
 .bannar-come {
-	-webkit-animation: bannar_come linear 6s;
+	-webkit-animation: bannar_come linear 4s;
 	-webkit-transform:translate(0px,0px);
-	-moz-animation: bannar_come linear 6s;
+	-moz-animation: bannar_come linear 4s;
 	-moz-transform:translate(0px,0px);
-	-o-animation: bannar_come linear 6s;
+	-o-animation: bannar_come linear 4s;
 	-o-transform:translate(0px,0px);
-	-ms-animation: bannar_come linear 6s;
+	-ms-animation: bannar_come linear 4s;
 	-ms-transform:translate(0px,0px);
-	animation: bannar_come linear 6s;
+	animation: bannar_come linear 4s;
 	transform:translate(0px,0px);
 }
 @-webkit-keyframes bannar_come {
