@@ -1255,6 +1255,10 @@ audio {
 	opacity: 0.5;
 	z-index: 9999;
 }
+h4, .h4, h5, .h5, h6, .h6 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+	
 .control-panel {
 	position: fixed;
 	bottom: 0;
