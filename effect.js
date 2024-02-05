@@ -168,6 +168,7 @@ $('document').ready(function(){
 		$(this).fadeOut('slow');
 		$('.cake').fadeOut('fast').promise().done(function(){
 			$('.message').fadeIn('slow');
+			$('.message').fadeOut('slow');
 		});
 		
 		var i;
