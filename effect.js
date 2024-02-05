@@ -135,7 +135,6 @@ $('document').ready(function(){
 		$('.fuego').fadeIn('slow');
 		$(this).fadeOut('slow').promise().done(function(){
 			$('#wish_message').fadeIn('slow');
-			$('#wish_message').fadeOut('slow');
 		});
 	});
 
@@ -169,6 +168,7 @@ $('document').ready(function(){
 		$(this).fadeOut('slow');
 		$('.cake').fadeOut('fast').promise().done(function(){
 			$('.message').fadeIn('slow');
+			$('.message').fadeOut('slow');
 		});
 		
 		var i;
