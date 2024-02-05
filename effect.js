@@ -135,6 +135,7 @@ $('document').ready(function(){
 		$('.fuego').fadeIn('slow');
 		$(this).fadeOut('slow').promise().done(function(){
 			$('#wish_message').fadeIn('slow');
+			$('#wish_message').fadeOut('slow');
 		});
 	});
 
